@@ -179,7 +179,7 @@ const MainLayout: React.FC = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={typographyStyles}>
-            {t("nadin soft")}
+            {t("user pulse")}
           </Typography>
           <Typography variant="h6" component="div">
             {name && !isFirstVisit && name}
